@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadyToRunPerformanceTest", "ReadyToRunPerformanceTest\ReadyToRunPerformanceTest.csproj", "{D51B8F38-06D6-450D-A393-91E067C34B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgenPerformanceTest", "NgenPerformanceTest\NgenPerformanceTest.csproj", "{290C8ECE-D7FE-40EA-8761-77731B783559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51B8F38-06D6-450D-A393-91E067C34B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51B8F38-06D6-450D-A393-91E067C34B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51B8F38-06D6-450D-A393-91E067C34B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51B8F38-06D6-450D-A393-91E067C34B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290C8ECE-D7FE-40EA-8761-77731B783559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290C8ECE-D7FE-40EA-8761-77731B783559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290C8ECE-D7FE-40EA-8761-77731B783559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290C8ECE-D7FE-40EA-8761-77731B783559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1A94A8-9DB8-4435-B8A5-ADCEA26A8AE6}
+	EndGlobalSection
+EndGlobal
