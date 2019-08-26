@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid x:Name="grid">
-        <Button Content="Load Assembly" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Button Content="Load Assemblies" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center" />
     </Grid>
 </Window>
